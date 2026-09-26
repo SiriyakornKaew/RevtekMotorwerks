@@ -1,0 +1,198 @@
+# 05_SALES
+
+---
+
+# sales_process.md
+
+## Purpose
+
+This file defines the general Revtek sales journey.
+
+## Sales Flow
+
+### 01 — Inquiry
+
+Customer contacts Revtek about:
+
+* Product
+* Vehicle
+* Project
+* Installation
+* Pricing
+
+Record:
+
+* Customer
+* Contact
+* Vehicle
+* Requirement
+* Product/project
+* Source
+
+---
+
+### 02 — Qualification
+
+Understand:
+
+* Vehicle
+* Customer objective
+* Desired modification
+* Product requirements
+* Timeline
+* Budget where appropriate
+
+---
+
+### 03 — Recommendation
+
+Recommend relevant products or project solutions based on:
+
+* Vehicle
+* Customer objective
+* Compatibility
+* Product availability
+* Project requirements
+
+Do not recommend products solely to increase order value.
+
+---
+
+### 04 — Quotation
+
+Quotation should clearly distinguish:
+
+* Product
+* Shipping
+* Installation
+* Additional services
+* Taxes / duties where applicable
+* Total
+
+Quotation validity:
+
+`[TO DEFINE]`
+
+---
+
+### 05 — Customer Confirmation
+
+Record:
+
+* Approved products
+* Approved price
+* Payment status
+* Project requirements
+* Expected timeline
+
+No order should be treated as confirmed until the required approval/payment condition is satisfied.
+
+---
+
+### 06 — Ordering
+
+Coordinate:
+
+* Supplier
+* Product
+* Quantity
+* Shipping
+* ETA
+
+---
+
+### 07 — Delivery
+
+Track:
+
+* Shipment
+* Arrival
+* Inspection
+* Customer/project status
+
+---
+
+### 08 — Installation
+
+Coordinate installation according to the relevant project.
+
+---
+
+### 09 — Completion
+
+Confirm:
+
+* Installation
+* Fitment
+* QC
+* Final payment
+* Customer handover
+
+---
+
+### 10 — After-sales
+
+Follow up when appropriate.
+
+---
+
+# sales_guidelines.md
+
+## Sales Principles
+
+### Be Consultative
+
+Understand the customer's vehicle and objective before recommending products.
+
+### Be Accurate
+
+Never guess:
+
+* Price
+* Availability
+* Compatibility
+* Lead time
+* Technical specifications
+
+### Be Clear
+
+Customers should understand what they are paying for.
+
+### Be Transparent
+
+If something is uncertain, say so.
+
+### Protect the Vehicle
+
+Do not recommend unsuitable modifications simply to make a sale.
+
+### Protect the Brand
+
+Sales communication should remain:
+
+* Professional
+* Confident
+* Helpful
+* Premium
+* Specific
+
+## Avoid
+
+* Pressure selling
+* Fake urgency
+* Unsupported claims
+* False scarcity
+* Misleading discounts
+* Guaranteed results without evidence
+
+## AI Sales Rule
+
+AI may assist with:
+
+* Product explanations
+* Quote preparation
+* Customer questions
+* Follow-ups
+* Sales summaries
+
+AI must not independently invent commercial terms or make commitments that have not been approved.
