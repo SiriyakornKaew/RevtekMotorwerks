@@ -1,0 +1,324 @@
+BRAND/
+│
+├── 01_BRAND_CORE/
+│
+│   ├── Positioning
+│   ├── Differentiators
+│   ├── Brand Promise
+│   ├── Brand Personality
+│   ├── What Revtek Is
+│   ├── What Revtek Is NOT
+│   └── Customer Perception We Want
+│
+│
+└── 02_BRAND_IDENTITY/
+    │
+    ├── 01_LOGO/
+    │   │
+    │   ├── Primary Logo
+    │   │   └── https://drive.google.com/file/d/1U4uOyNDPRU-qKqb5m8sdhOYi1d2kAdFK/view?usp=sharing
+    │   │
+    │   ├── Secondary Logo
+    │   │   └── https://drive.google.com/file/d/1p2MISBDBJQKBR1D1yPve4mRJ2_JyZGfT/view?usp=drive_link
+    │   │
+    │   ├── Logo Mark
+    │   │   └── https://drive.google.com/file/d/1fKaPOhhFbHq8cPoeKCn17ZqEuUEH9a05/view?usp=drive_link
+    │   │
+    │   ├── Monochrome Versions
+    │   │   ├── Black
+    │   │   └── White
+    │   │
+    │   └── Logo Usage
+    │       ├── Clear Space
+    │       ├── Minimum Size
+    │       ├── Preferred Placement
+    │       ├── Approved Backgrounds
+    │       └── Do's & Don'ts
+    │
+    │
+    ├── 02_COLOR/
+    │   │
+    │   ├── Primary Colors
+    │   │   ├── Black
+    │   │   └── White
+    │   │
+    │   ├── Secondary Colors
+    │   │   └── Grey
+    │   │
+    │   ├── Accent Colors
+    │   │   └── Reserved for selective emphasis
+    │   │
+    │   ├── Color Codes
+    │   │   ├── HEX
+    │   │   ├── RGB
+    │   │   └── CMYK
+    │   │
+    │   └── Color Usage
+    │       └── Black & White should remain the dominant brand palette.
+    │
+    │
+    ├── 03_TYPOGRAPHY/
+    │   │
+    │   ├── Primary Typeface
+    │   │   ├── Font: Montserrat
+    │   │   ├── Weight: Bold / 700
+    │   │   └── Used for:
+    │   │       ├── Major brand communication
+    │   │       ├── Headlines
+    │   │       ├── Campaign titles
+    │   │       ├── Website headings
+    │   │       └── Key visual messaging
+    │   │
+    │   ├── Secondary Typeface
+    │   │   ├── Font: Montserrat
+    │   │   ├── Weight: Regular / 400
+    │   │   └── Used for:
+    │   │       ├── Supporting information
+    │   │       ├── Technical specifications
+    │   │       ├── Product descriptions
+    │   │       ├── Captions
+    │   │       ├── UI
+    │   │       └── Secondary communication
+    │   │
+    │   ├── Headings
+    │   │   ├── H1: Bold / 700
+    │   │   │   └── Main campaign / hero title
+    │   │   ├── H2: Semibold / 600
+    │   │   │   └── Section title
+    │   │   ├── H3: Medium / 500
+    │   │   │   └── Subsection / project title
+    │   │   └── Label: Medium / 500
+    │   │       └── Small information / technical labels
+    │   │
+    │   └── Body / Supporting Text
+    │       ├── Body Copy
+    │       │   └── Montserrat Regular / 400
+    │       ├── Product Descriptions
+    │       │   └── Montserrat Regular / Medium
+    │       ├── Technical Specifications
+    │       │   ├── Labels: Medium / Semibold, uppercase
+    │       │   └── Values: Regular / Medium
+    │       ├── Captions
+    │       │   └── Montserrat Regular / Medium
+    │       ├── Footnotes
+    │       │   └── Montserrat Regular
+    │       ├── Measurements
+    │       │   └── Montserrat Medium
+    │       └── CTA
+    │           └── Montserrat Semibold / 600
+    │
+    │       Typography hierarchy should be created through:
+    │       ├── Weight
+    │       ├── Size
+    │       ├── Spacing
+    │       ├── Capitalization
+    │       ├── Line height
+    │       └── Placement
+    │
+    │       Montserrat is used across all Revtek communications.
+    │       No unnecessary typeface switching.
+    │
+    │
+    ├── 04_VISUAL_STYLE/
+    │   │
+    │   ├── Overall Look & Feel
+    │   │   ├── Premium
+    │   │   ├── Technical
+    │   │   ├── Performance-driven
+    │   │   ├── Modern
+    │   │   └── Confident
+    │   │
+    │   │   Visual Balance:
+    │   │   ├── Technical × Premium
+    │   │   ├── Performance × Refinement
+    │   │   ├── Aggressive × Controlled
+    │   │   └── Minimal × Detailed
+    │   │
+    │   │   Overall Direction:
+    │   │   Revtek should prioritize refined performance over visual excess.
+    │   │   The visual identity should feel engineered, intentional,
+    │   │   modern, and premium rather than flashy or heavily decorated.
+    │   │
+    │   │   Avoid:
+    │   │   ├── Excessive visual effects
+    │   │   ├── Overuse of gradients
+    │   │   ├── Excessive text
+    │   │   ├── Generic luxury aesthetics
+    │   │   ├── Excessive racing graphics
+    │   │   ├── Overly aggressive tuning-shop visuals
+    │   │   ├── Random decorative elements
+    │   │   ├── Heavy carbon-fibre textures
+    │   │   ├── Excessive neon / accent colors
+    │   │   └── Mixing unrelated visual styles
+    │   │
+    │   │
+    │   ├── Layout & Composition
+    │   │   ├── Photography-first
+    │   │   ├── Strong negative space
+    │   │   ├── Clear visual hierarchy
+    │   │   ├── Consistent alignment
+    │   │   ├── Structured grid
+    │   │   └── One primary message per visual
+    │   │
+    │   │   Recommended hierarchy:
+    │   │   1. Vehicle / Product
+    │   │   2. Project / Product Name
+    │   │   3. Key Message
+    │   │   4. Supporting Information
+    │   │   5. Brand / CTA
+    │   │
+    │   │
+    │   ├── Graphic Elements
+    │   │   ├── Fine technical lines
+    │   │   ├── Technical labels
+    │   │   ├── Project numbering
+    │   │   ├── Selective frames / containers
+    │   │   └── Simple directional arrows
+    │   │
+    │   │   Examples:
+    │   │   ├── REVTEK / PROJECT 001
+    │   │   ├── FERRARI 812 N-LARGO
+    │   │   ├── CARBON FIBRE
+    │   │   ├── CUSTOM FITMENT
+    │   │   ├── 01 / 08
+    │   │   └── VIEW PROJECT →
+    │   │
+    │   │
+    │   ├── Icons
+    │   │   ├── Minimal
+    │   │   ├── Geometric
+    │   │   ├── Line-based
+    │   │   ├── Consistent stroke weight
+    │   │   ├── No unnecessary detail
+    │   │   ├── No 3D effects
+    │   │   └── No gradients
+    │   │
+    │   │   Potential applications:
+    │   │   ├── Performance
+    │   │   ├── Engineering
+    │   │   ├── Materials
+    │   │   ├── Fitment
+    │   │   ├── Installation
+    │   │   ├── Location
+    │   │   └── Contact
+    │   │
+    │   │
+    │   └── Textures / Patterns
+    │       ├── Carbon fibre
+    │       ├── Brushed metal
+    │       ├── Machined metal
+    │       ├── Fine technical grain
+    │       ├── Technical grids
+    │       ├── Blueprint-inspired layouts
+    │       ├── Engineering lines
+    │       ├── CAD-inspired geometry
+    │       └── Fine measurement lines
+    │
+    │       Usage:
+    │       Textures and patterns should remain subtle and secondary.
+    │       They should enhance engineering, precision, and material
+    │       quality without competing with the vehicle or product.
+    │
+    │
+    ├── 05_PHOTOGRAPHY/
+    │   │
+    │   ├── Product Photography
+    │   │   ├── Material quality
+    │   │   ├── Construction
+    │   │   ├── Finish
+    │   │   ├── Form
+    │   │   └── Detail
+    │   │
+    │   ├── Car Photography
+    │   │   ├── Proportion
+    │   │   ├── Stance
+    │   │   ├── Design
+    │   │   ├── Presence
+    │   │   └── Modification details
+    │   │
+    │   ├── Project Photography
+    │   │   ├── Hero shot
+    │   │   ├── Front / rear / side views
+    │   │   ├── Three-quarter views
+    │   │   ├── Detail shots
+    │   │   ├── Product integration
+    │   │   ├── Installation / process
+    │   │   └── Final vehicle
+    │   │
+    │   ├── Detail Shots
+    │   │   ├── Carbon weave
+    │   │   ├── Edges
+    │   │   ├── Fitment
+    │   │   ├── Surface finish
+    │   │   ├── Hardware
+    │   │   └── Panel integration
+    │   │
+    │   └── Lifestyle / Editorial
+    │       ├── Premium automotive environments
+    │       ├── Controlled backgrounds
+    │       ├── Aspirational context
+    │       └── Minimal distractions
+    │
+    │       Photography Principle:
+    │       Show the product honestly, beautifully, and with purpose.
+    │
+    │
+    ├── 06_VIDEO_MOTION/
+    │   │
+    │   ├── Video Style
+    │   │   ├── Cinematic
+    │   │   ├── Controlled
+    │   │   ├── Premium
+    │   │   ├── Technical
+    │   │   └── Performance-oriented
+    │   │
+    │   ├── Motion Style
+    │   │   ├── Smooth
+    │   │   ├── Precise
+    │   │   ├── Controlled
+    │   │   ├── Minimal
+    │   │   └── Purposeful
+    │   │
+    │   ├── Transitions
+    │   │   ├── Clean cuts
+    │   │   ├── Fade
+    │   │   ├── Subtle motion transitions
+    │   │   ├── Match cuts
+    │   │   └── Detail-to-wide transitions
+    │   │
+    │   └── Reels / Short-form
+    │       └── HOOK → VEHICLE / PRODUCT → DETAIL → RESULT → CTA
+    │
+    │
+    └── 07_BRAND_GUIDELINES/
+        │
+        ├── Brand Guidelines
+        │   └── Master reference for all Revtek brand identity rules
+        │
+        ├── Do's & Don'ts
+        │   ├── Keep designs clean and intentional
+        │   ├── Prioritize the vehicle / product
+        │   ├── Maintain visual hierarchy
+        │   ├── Use consistent typography
+        │   ├── Use negative space
+        │   ├── Keep graphics restrained
+        │   └── Avoid over-designing
+        │
+        └── Brand Assets
+            ├── Approved logos
+            ├── Logo marks
+            ├── Monochrome logos
+            ├── Font references
+            ├── Color references
+            ├── Icon sets
+            ├── Graphic elements
+            ├── Templates
+            ├── Photography references
+            └── Video references
+
+
+REVTEK VISUAL PRINCIPLE
+
+PRECISION → PERFORMANCE → REFINEMENT
+
+Less decoration. More intention.
