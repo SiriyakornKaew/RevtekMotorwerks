@@ -1,0 +1,246 @@
+# 01_PRODUCTS
+
+---
+
+# products.md
+
+## Purpose
+
+This file defines how Revtek's product catalog should be understood and referenced by AI.
+
+Revtek provides and/or sources automotive products for premium and performance-oriented vehicles, including styling, body, carbon-fiber, performance-related, and other aftermarket products.
+
+The exact product catalog should always be treated as the source of truth for current products.
+
+## Product Information
+
+Each product should ideally contain:
+
+* Product name
+* Product ID / SKU
+* Product category
+* Brand / manufacturer
+* Vehicle make
+* Vehicle model
+* Vehicle generation
+* Vehicle year compatibility
+* Product description
+* Material
+* Finish
+* Product specifications
+* Included components
+* Installation requirements
+* Availability
+* Cost
+* Selling price
+* Lead time
+* Product images
+* Supplier/source
+* Notes
+
+## Product Status
+
+Products may be classified as:
+
+* Active
+* Available to order
+* Made to order
+* Pre-order
+* Out of stock
+* Discontinued
+* To confirm
+
+Do not assume availability from historical information.
+
+## Product Claims
+
+AI must not invent:
+
+* Materials
+* Performance improvements
+* Weight savings
+* Fitment
+* Compatibility
+* Manufacturing origin
+* Certification
+* Warranty
+* Exclusivity
+* Availability
+* Pricing
+
+These must come from the relevant product source.
+
+## Product Source of Truth
+
+Primary product information:
+
+`data/products/`
+
+Supporting information may come from:
+
+* Supplier information
+* Manufacturer documentation
+* Product quotations
+* Internal product sheets
+* Project records
+
+When sources conflict, flag the conflict rather than silently choosing one.
+
+---
+
+# product_categories.md
+
+## Purpose
+
+This file defines the high-level structure of Revtek's product catalog.
+
+## Core Categories
+
+### 01 — Body & Exterior
+
+Examples:
+
+* Body kits
+* Front components
+* Rear components
+* Side components
+* Spoilers
+* Splitters
+* Diffusers
+* Grilles
+* Exterior styling components
+
+Exact products must be verified.
+
+### 02 — Carbon Fiber
+
+Examples:
+
+* Carbon-fiber exterior components
+* Carbon-fiber aerodynamic components
+* Carbon-fiber trim
+* Carbon-fiber replacement parts
+
+Material and construction must be verified for each product.
+
+### 03 — Performance
+
+Examples may include:
+
+* Performance-related components
+* Engine-related upgrades
+* Exhaust-related products
+* Suspension-related products
+* Handling-related products
+
+Exact categories and products are `[TO DEFINE]`.
+
+### 04 — Wheels & Supporting Components
+
+`[TO DEFINE]`
+
+### 05 — Interior
+
+`[TO DEFINE]`
+
+### 06 — Electronics
+
+`[TO DEFINE]`
+
+### 07 — Accessories
+
+`[TO DEFINE]`
+
+### 08 — Other Aftermarket Products
+
+Products that do not fit the primary categories may be classified here until the catalog structure is expanded.
+
+## Category Rules
+
+A product should have:
+
+* One primary category
+* Optional secondary tags
+* Vehicle compatibility
+* Current product status
+
+Avoid creating unnecessary categories for individual products.
+
+---
+
+# pricing.md
+
+## Purpose
+
+This file defines how Revtek pricing should be represented.
+
+## Pricing Principles
+
+Pricing is dynamic and should be treated as operational data rather than permanent brand context.
+
+Current pricing should come from the approved pricing source.
+
+## Recommended Price Fields
+
+Each product should support:
+
+* Product ID
+* Product name
+* Supplier cost
+* Currency
+* Shipping cost
+* Duties / taxes
+* Installation cost
+* Other project costs
+* Internal cost
+* Selling price
+* Promotional price
+* Margin
+* Price validity
+* Last updated date
+
+## Pricing Status
+
+Possible statuses:
+
+* Current
+* Pending confirmation
+* Supplier price changed
+* Promotional
+* Expired
+* To confirm
+
+## AI Pricing Rules
+
+AI must:
+
+1. Never invent a price.
+2. Never assume an old price is current.
+3. Never quote a price without checking the current pricing source.
+4. Clearly distinguish product price from installation and project costs.
+5. State currency when relevant.
+6. Flag missing or conflicting pricing information.
+
+## Price Source
+
+Primary pricing source:
+
+`data/products/pricing`
+
+Exact source location is `[TO DEFINE]`.
+
+---
+
+# Product AI Rules
+
+When answering product questions:
+
+**Known → State it.**
+
+**Unknown → Say `[TO DEFINE]` or request the relevant source.**
+
+**Outdated → Do not reuse as current pricing or availability.**
+
+**Conflicting → Flag the conflict.**
+
+Never fill product gaps using generic automotive knowledge when the answer concerns a specific Revtek product.
