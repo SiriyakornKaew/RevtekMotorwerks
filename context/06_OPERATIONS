@@ -1,0 +1,236 @@
+# 06_OPERATIONS
+
+---
+
+# order_process.md
+
+## Purpose
+
+This file defines the standard order lifecycle.
+
+## Order Lifecycle
+
+**Inquiry → Quote → Confirmation → Payment → Order → Shipment → Arrival → Inspection → Installation → Completion**
+
+## Order Record
+
+Each order should contain:
+
+* Order ID
+* Customer ID
+* Project ID
+* Product ID
+* Product name
+* Quantity
+* Supplier
+* Supplier order ID
+* Cost
+* Selling price
+* Payment status
+* Order date
+* ETA
+* Shipping status
+* Arrival date
+* Inspection status
+* Installation status
+* Completion status
+* Notes
+
+## Order Status
+
+Recommended statuses:
+
+1. Draft
+2. Quoted
+3. Awaiting Confirmation
+4. Confirmed
+5. Payment Pending
+6. Ordered
+7. Supplier Processing
+8. In Transit
+9. Arrived
+10. Inspection
+11. Ready for Installation
+12. Installed
+13. Completed
+14. Closed
+15. Cancelled
+
+## Tracking Principle
+
+Order status and installation status should be connected.
+
+A customer/project should have one overall timeline rather than disconnected updates.
+
+## AI Rules
+
+AI must not:
+
+* Mark an order complete without evidence
+* Assume shipment has arrived
+* Assume payment was received
+* Change an ETA without source information
+* Invent tracking numbers
+
+---
+
+# installation_process.md
+
+## Purpose
+
+Defines the standard installation workflow.
+
+## Installation Flow
+
+### 01 — Pre-Installation
+
+Confirm:
+
+* Product received
+* Product inspected
+* Vehicle identified
+* Required components available
+* Installation requirements understood
+* Appointment confirmed
+
+### 02 — Installation
+
+Record:
+
+* Installation start
+* Installer
+* Products installed
+* Issues encountered
+* Additional work required
+
+### 03 — Fitment
+
+Check:
+
+* Alignment
+* Fit
+* Panel gaps
+* Mounting
+* Finish
+* Function where relevant
+
+### 04 — Quality Control
+
+Confirm the vehicle meets the agreed project requirements.
+
+### 05 — Completion
+
+Record:
+
+* Installation completion
+* Final photos
+* Customer handover
+* Outstanding items
+* Warranty / after-sales information if applicable
+
+## Installation Status
+
+* Not Scheduled
+* Scheduled
+* In Progress
+* Fitment / QC
+* Completed
+* Requires Follow-up
+
+## Important Rule
+
+Installation capability is product-specific.
+
+Do not assume every Revtek product can be installed using the same process.
+
+---
+
+# aftersales.md
+
+## Purpose
+
+Defines the approach to post-sale customer support.
+
+## After-sales Scope
+
+May include:
+
+* Installation follow-up
+* Fitment concerns
+* Product issues
+* Missing components
+* Warranty coordination
+* Supplier communication
+* Customer questions
+* Maintenance guidance where applicable
+
+## Issue Handling
+
+### Step 1 — Receive
+
+Record the customer concern accurately.
+
+### Step 2 — Identify
+
+Determine:
+
+* Order
+* Product
+* Project
+* Installation status
+* Date
+* Issue type
+
+### Step 3 — Verify
+
+Review:
+
+* Order records
+* Product information
+* Installation information
+* Photos
+* Supplier information
+
+### Step 4 — Resolve
+
+Possible outcomes:
+
+* Guidance
+* Adjustment
+* Reinstallation
+* Supplier claim
+* Replacement
+* Further inspection
+
+The actual resolution depends on the circumstances.
+
+### Step 5 — Close
+
+Record:
+
+* Resolution
+* Date
+* Responsible person
+* Customer confirmation where appropriate
+
+## AI Rules
+
+AI must not promise:
+
+* Warranty coverage
+* Refunds
+* Replacement
+* Compensation
+* Free installation
+
+unless the approved policy or responsible person confirms it.
+
+---
+
+# Operations Principle
+
+The operational system should create one connected customer timeline:
+
+**Customer → Project → Product → Order → Delivery → Installation → QC → Completion → After-sales**
+
+This structure should be reflected in operational data wherever possible.
