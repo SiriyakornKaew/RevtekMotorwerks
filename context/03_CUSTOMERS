@@ -1,0 +1,215 @@
+# 03_CUSTOMERS
+
+---
+
+# target_customers.md
+
+## Purpose
+
+This file defines the customer groups Revtek is intended to serve.
+
+## Primary Customer
+
+Revtek primarily serves vehicle owners interested in premium and performance-oriented automotive customization.
+
+These customers may value:
+
+* Vehicle appearance
+* Individuality
+* Design
+* Product quality
+* Fitment
+* Installation
+* Performance
+* Project execution
+* Professional service
+
+## Customer Needs
+
+Customers may approach Revtek because they want to:
+
+* Modify their vehicle
+* Improve its appearance
+* Create a more distinctive identity
+* Add selected performance-related products
+* Source difficult-to-find products
+* Complete a vehicle customization project
+* Have products professionally installed
+
+Specific customer motivations should be captured from actual customer data where available.
+
+## Customer Segments
+
+### Segment 01 — Enthusiast
+
+Interested in:
+
+* Cars
+* Styling
+* Automotive culture
+* Modification
+* Product details
+
+### Segment 02 — Premium Vehicle Owner
+
+Values:
+
+* Vehicle quality
+* Professional service
+* Appropriate design
+* Trust
+* Convenience
+* Final execution
+
+### Segment 03 — Project Customer
+
+Wants a broader vehicle transformation rather than a single product.
+
+Potential needs:
+
+* Consultation
+* Product selection
+* Sourcing
+* Installation
+* Project coordination
+* Final completion
+
+### Segment 04 — Performance-Oriented Customer
+
+Interested in:
+
+* Performance
+* Driving experience
+* Technical upgrades
+* Engineering
+
+Exact segment definition is `[TO DEFINE]`.
+
+## Customer Data Rule
+
+Do not infer customer demographics from assumptions.
+
+Where available, use actual:
+
+* Customer records
+* Sales data
+* CRM data
+* Inquiry data
+* Purchase history
+* Analytics
+
+---
+
+# customer_personas.md
+
+## Purpose
+
+Personas are working models for marketing and communication.
+
+They should be updated when real customer data becomes available.
+
+## Persona 01 — The Automotive Enthusiast
+
+**Profile**
+
+Vehicle owner with strong interest in cars and customization.
+
+**Cares about**
+
+* Design
+* Details
+* Products
+* Vehicle individuality
+* Automotive culture
+
+**Likely concerns**
+
+* Product quality
+* Fitment
+* Authenticity
+* Final appearance
+* Technical suitability
+
+**Content that may interest them**
+
+* Product details
+* Build showcases
+* Before/after
+* Installation
+* Technical details
+* New products
+
+---
+
+## Persona 02 — The Premium Vehicle Owner
+
+**Profile**
+
+Owner of a premium or performance-oriented vehicle who wants modifications without compromising the vehicle's character.
+
+**Cares about**
+
+* Quality
+* Trust
+* Professional execution
+* Design
+* Convenience
+
+**Likely concerns**
+
+* Risk to vehicle
+* Fitment
+* Quality
+* Service
+* Project reliability
+
+**Content that may interest them**
+
+* Completed projects
+* Detailed showcases
+* Process
+* Quality details
+* Professional installation
+
+---
+
+## Persona 03 — The Complete Build Customer
+
+**Profile**
+
+Customer planning a larger vehicle transformation.
+
+**Cares about**
+
+* Overall design
+* Project coordination
+* Product compatibility
+* Timeline
+* Budget
+* Final result
+
+**Likely concerns**
+
+* Project complexity
+* Lead time
+* Coordination
+* Cost changes
+* Installation
+
+**Content that may interest them**
+
+* Full builds
+* Project journeys
+* Transformation stories
+* Complete specifications
+* Behind-the-scenes content
+
+---
+
+## Persona Rules
+
+Personas are not facts about every customer.
+
+Use them as communication frameworks, not as assumptions about an individual customer.
+
+Actual customer information always takes priority.
