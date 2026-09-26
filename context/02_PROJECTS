@@ -1,0 +1,118 @@
+# 02_PROJECTS
+
+---
+
+# project_index.md
+
+## Purpose
+
+This file defines how Revtek vehicle projects should be organized and referenced.
+
+Revtek works with complete vehicle customization projects in addition to individual product sales.
+
+A project may combine multiple products, sourcing activities, installation work, fitment, finishing, and final delivery.
+
+## Project Structure
+
+Each project should ideally contain:
+
+* Project ID
+* Project name
+* Customer ID
+* Vehicle
+* Vehicle model
+* Vehicle generation
+* Vehicle year
+* Project status
+* Project objective
+* Selected products
+* Product IDs
+* Supplier information
+* Order information
+* Installation requirements
+* Installation status
+* Project timeline
+* Project costs
+* Customer price
+* Project images
+* Before images
+* During-project images
+* Final images
+* Notes
+
+## Project Status
+
+Recommended project stages:
+
+1. Lead
+2. Consultation
+3. Project Planning
+4. Quotation
+5. Customer Confirmation
+6. Product Ordering
+7. Product In Transit
+8. Product Received
+9. Installation Scheduled
+10. Installation
+11. Fitment / QC
+12. Completed
+13. Delivered
+14. After-sales
+
+## Project Principle
+
+A project should be understood as the complete customer outcome rather than simply a collection of products.
+
+## AI Rules
+
+When discussing a project:
+
+* Use the Project ID as the primary reference.
+* Do not assume project completion.
+* Do not assume installation has happened.
+* Do not assume a customer has approved a quotation.
+* Do not publish private customer information.
+* Do not use unfinished project information as a completed case study.
+* Use project records as the source of truth.
+
+## Project Index
+
+| Project ID    | Project Name  | Vehicle       | Status        | Customer    | Notes         |
+| ------------- | ------------- | ------------- | ------------- | ----------- | ------------- |
+| `[TO DEFINE]` | `[TO DEFINE]` | `[TO DEFINE]` | `[TO DEFINE]` | `[PRIVATE]` | `[TO DEFINE]` |
+
+## Project Data Location
+
+Recommended:
+
+`data/projects/`
+
+Project-specific information should live in project records rather than this context file.
+
+---
+
+# Project Documentation Standard
+
+Every completed project should ideally have:
+
+### Before
+
+* Vehicle photos
+* Existing condition
+* Customer objective
+
+### During
+
+* Product photos
+* Installation photos
+* Important technical steps
+* Fitment details
+
+### After
+
+* Completed vehicle
+* Final details
+* Product list
+* Project summary
+
+This documentation can later support marketing, case studies, sales references, and internal knowledge.
